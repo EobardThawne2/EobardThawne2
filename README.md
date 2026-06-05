@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=200&section=header&text=Sumeer%20Khattar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
 
-<!-- Social Badges with Glow Effect -->
 <p>
   <a href="https://linkedin.com/in/sumeer-khattar">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f1f1f" alt="LinkedIn" />
@@ -16,7 +14,6 @@
 
 </div>
 
-<!-- Animated Intro Section -->
 <div align="center">
   
 ### 👨‍💻 About Me
@@ -31,7 +28,7 @@ Developer:
   location: "India 🇮🇳"
   focus: "Full-Stack × AI/ML × IoT"
   status: "Building the future, one container at a time"
-```
+  ```
   </td>
 <td width="50%" align="center">
   
@@ -143,6 +140,43 @@ Developer:
 - ✨ Real-time severity triage
 - ✨ Conversational AI chatbot
 - ✨ Instant medical guidance
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ **[VoltVigil](https://github.com/EobardThawne2/VoltVigil/)**
+*Industrial IoT electricity monitoring system and active safety relay.*
+
+**Tech Stack:**
+- 🔹 C/C++ & Arduino
+- 🔹 ESP32 & PZEM-004T
+- 🔹 HTML
+
+**Key Features:**
+- ✨ Active safety relay
+- ✨ Voltage fluctuation isolation
+- ✨ Real-time local telemetry
+- ✨ Web-based analysis
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 **[NovaCare](https://github.com/EobardThawne2/NovaCare/)**
+*Modern hospital management system with secure role-based access.*
+
+**Tech Stack:**
+- 🔹 React (Vite + TS)
+- 🔹 FastAPI & Python
+- 🔹 Supabase (PostgreSQL)
+
+**Key Features:**
+- ✨ Role-based access control
+- ✨ Comprehensive dashboard
+- ✨ Patient & record management
+- ✨ Automatic schema init
 
 </td>
 <td width="50%">
